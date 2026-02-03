@@ -1,32 +1,78 @@
-.banner-principal-decorativo
-  &-1
-    animation: float1 3.5s ease-in-out infinite alternate
-    position: absolute
-    top: 20%
-    right: 10%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
-
-@keyframes float1
-  0%
-    transform: translateY(20px)
-  100%
-    transform: translateY(0px)
-  
 .banner-principal .tarjeta
   background-position: left 50% !important
+  @media screen and (max-width: 1200px)
+    background-image: url("../assets/curso/portada/fondo-banner-principal1.png") !important
+  @media screen and (max-width: 768px)
+    background-image: url("../assets/curso/portada/fondo-banner-principal2.png") !important
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/fondo-banner-principal3.png") !important
 
 .banner-principal__row .banner-principal__img
-  width: 400px !important  
+  width: 440px !important 
+  @media screen and (max-width: 1200px)
+    width: 370px !important
+  @media screen and (min-width: 1400px)
+    width: 500px !important
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important
+  color: $color-sistema-texto !important
 
 .banner-interno__titulo__icono i
-  color: $color-primario
+  color: white
+
+.banner-principal__row
+  padding: 0rem 0rem 0rem 0rem
+
+.banner-principal__descripcion
+  padding: 0rem 0rem 0rem 0rem
+  @media screen and (max-width: 768px)
+    padding: 0rem !important
+  @media screen and (min-width: 1400px)
+    padding: 0rem !important
+  
+.banner-principal__info
+  padding: 0rem 4rem 0rem 0rem
+  @media screen and (max-width: 576px)
+    padding: 9rem 2.4rem 9rem 1.5rem !important
+  @media screen and (min-width: 1400px)
+    padding: 0rem !important
 
 figcaption
   font-weight: normal
+
+/// AJUSTE ESPACIO RESPOSINVE
+.espacio___movil_1
+  @media screen and (max-width: 1200px)
+    margin-top: -1rem !important
+
+.espacio___movil_2
+  @media screen and (max-width: 1200px)
+    margin-top: -2rem !important
+
+.espacio___movil_3
+  @media screen and (max-width: 1200px)
+    margin-top: 1rem !important
+
+.espacio___movil_4
+  @media screen and (max-width: 1200px)
+    margin-top: 2rem !important
+
+.espacio___movil_5
+  @media screen and (max-width: 1200px)
+    margin-top: -4rem !important
+
+    
+/// TITULOS TERCER NIVEL
+/// FONDOS
+/// INTRO
+/// TEMA 
+/// BLOQUE 1 -----------------------
+/// BLOQUE 2 -----------------------
+/// BLOQUE 3 -----------------------
+/// BLOQUE 4 -----------------------
+/// BLOQUE 5 -----------------------
+/// BLOQUE 6 -----------------------
+/// BLOQUE 7 -----------------------
+
+
