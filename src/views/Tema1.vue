@@ -179,7 +179,7 @@
                   .tarjeta.color-acento-botones.p-4
                     .row.justify-content-center.mb-3
                       .col-8
-                        img(src='@/assets/curso/temas/img19.svg' alt='' style="max-width: 90px").m-auto
+                        <!-- img(src='@/assets/curso/temas/img19.svg' alt='' style="max-width: 90px").m-auto -->
                     h4.mb-3.estilo-text Manejo agroecológico del suelo
                     p.mb-0 Evalúa las prácticas de conservación, fertilización natural y estructura del suelo dentro del sistema productivo.
 
@@ -265,7 +265,7 @@
                   span.fa-li
                     i.fas.fa-arrow-alt-circle-right
                   | Otra en época de lluvias.
-        p.mb-0 Este enfoque permite construir una línea base funcional del predio, identificar oportunidades de mejora, y dar seguimiento a los avances en la transición agroecológica. Además, articula criterios técnicos con la observación participativa y los saberes propios del territorio, fortaleciendo así los procesos de evaluación colectiva.
+        p.mb-0 Este enfoque permite construir una línea base funcional del predio, identificar oportunidades de mejora y dar seguimiento a los avances en la transición agroecológica. Además, articula criterios técnicos con la observación participativa y los saberes propios del territorio, fortaleciendo así los procesos de evaluación colectiva.
       .col-xl-auto(data-aos="fade-left")
         figure.d-none.d-xl-block
           img(src="@/assets/curso/temas/img24.png" alt='').m-auto
@@ -462,7 +462,7 @@
                 li
                   .lista-ol--cuadro__vineta
                     span 1
-                  | No tiene semillas criollas, todas son compradas.
+                  | No tiene semillas criollas; todas son compradas.
                 li 
                   .lista-ol--cuadro__vineta
                     span 2
@@ -489,7 +489,7 @@
         figure
           img(src="@/assets/curso/temas/img11.svg" alt='' style="max-width: 60px").m-auto
       .col
-        h3 Ejemplo práctico: Finca Renacer 
+        h3 Ejemplo práctico: finca Renacer 
     
     p.mb-5 Sigamos con el ejemplo de la finca #[b El Renacer], ahora evaluada en la estación productiva. Este predio, ubicado en la vereda La Esperanza, en el piedemonte del Cauca, presenta una combinación de cultivos diversificados: café bajo sombra, frutales nativos y hortalizas en terrazas, junto con la crianza de gallinas criollas.
 
@@ -530,7 +530,7 @@
             td 3
           tr
             td.ajuste-border-tabla.texto-left Bienestar animal
-            td.ajuste-border-tabla.texto-left Las gallinas tienen sombra natural, pero no cuentan con zonas de descanso ni bancos de proteína; condiciones básicas pero no óptimas.
+            td.ajuste-border-tabla.texto-left Las gallinas tienen sombra natural, pero no cuentan con zonas de descanso ni bancos de proteína; condiciones básicas, pero no óptimas.
             td 2
           tr.ajuste-color-tabla
             td.ajuste-border-tabla.texto-left Producción de insumos, bioinsumos y biopreparados

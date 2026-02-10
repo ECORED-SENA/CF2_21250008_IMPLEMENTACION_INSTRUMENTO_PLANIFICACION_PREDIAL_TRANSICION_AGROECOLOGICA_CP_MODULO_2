@@ -18,7 +18,7 @@
     .fondo___color_3
       .px-5
 
-        p.mb-5 Se presentan a continuación, prácticas agroecológicas concretas, validadas en #[b contextos rurales] y aplicables a nivel predial, que contribuyen a:
+        p.mb-5 Se presentan a continuación prácticas agroecológicas concretas, validadas en #[b contextos rurales] y aplicables a nivel predial, que contribuyen a:
 
         .row.justify-content-center.mb-5
           .col-xl-10
@@ -253,7 +253,7 @@
     .row.align-items-center.mb-5
       .col-xl
         p.mb-3.style___box_2.ajuste___box_2_3(data-aos="fade-right") Uno de los recursos más útiles en barreras vivas es el #[b vetiver], una gramínea de raíz profunda que ofrece múltiples beneficios. Su sistema radicular, denso y vertical, #[b estabiliza el suelo, reduce la erosión y mejora la infiltración del agua]. Además, tolera condiciones extremas, se adapta a diversos tipos de terreno y puede integrarse fácilmente en #[b bordes de cultivos o terrazas], aportando #[b biomasa, sombra parcial y protección natural], sin competir con los cultivos principales.
-        p.mb-0 Su uso es ampliamente recomendado, ya que #[b no produce semillas] y por tanto #[b no representa riesgo de convertirse en una especie invasora].
+        p.mb-0 Su uso es ampliamente recomendado, ya que #[b no produce semillas] y, por tanto, #[b no representa riesgo de convertirse en una especie invasora].
       .col-xl-auto(data-aos="fade-left")
         figure.d-none.d-xl-block
           img(src="@/assets/curso/temas/img44.png" alt='').m-auto
@@ -341,7 +341,7 @@
         <!-- TITULOS CUERTO NIVEL -->
         h4.mb-5.caja-titulos-cuarto-nivel(data-aos="fade-right") El papel de las leguminosas
 
-        p.mb-5 Las leguminosas como fríjol, caupí, lenteja, trébol o soya tienen la capacidad de #[b fijar nitrógeno atmosférico en el suelo] gracias a su asociación con b#[b acterias del género Rhizobium]. Al incluirlas en la rotación, se #[b mejora la disponibilidad de nutrientes] para los cultivos siguientes, se #[b activa la biología del suelo y se reduce la necesidad de fertilizantes externos]. Además, muchas leguminosas aportan #[b biomasa, cobertura vegetal y alimentos ricos en proteína] para el consumo familiar.
+        p.mb-5 Las leguminosas como fríjol, caupí, lenteja, trébol o soya tienen la capacidad de #[b fijar nitrógeno atmosférico en el suelo] gracias a su asociación con #[b bacterias del género #[i Rhizobium]]. Al incluirlas en la rotación, se #[b mejora la disponibilidad de nutrientes] para los cultivos siguientes, se #[b activa la biología del suelo y se reduce la necesidad de fertilizantes externos]. Además, muchas leguminosas aportan #[b biomasa, cobertura vegetal y alimentos ricos en proteína] para el consumo familiar.
 
         .row.justify-content-center.mb-0
           .col-xl-6
@@ -409,7 +409,7 @@
 
     .row.align-items-center.m-0.mb-5
       .col-xl.style___box_8.ajuste___box_8(data-aos="fade-right")
-        p.mb-0 En agroecología, la nutrición de los cultivos no se enfoca en alimentar directamente a las plantas, sino en #[b nutrir y activar los microorganismos del suelo] que sostienen su crecimiento. Estos organismos como hongos, bacterias, lombrices y otros descomponen la materia orgánica, liberan nutrientes y crean condiciones favorables para el desarrollo vegetal. Por eso, la elaboración de bioproductos para la nutrición busca #[b fortalecer la vida del suelo, cerrar ciclos de nutrientes y reducir la dependencia de insumos externos].
+        p.mb-0 En agroecología, la nutrición de los cultivos no se enfoca en alimentar directamente a las plantas, sino en #[b nutrir y activar los microorganismos del suelo] que sostienen su crecimiento. Estos organismos, como hongos, bacterias, lombrices y otros, descomponen la materia orgánica, liberan nutrientes y crean condiciones favorables para el desarrollo vegetal. Por eso, la elaboración de bioproductos para la nutrición busca #[b fortalecer la vida del suelo, cerrar ciclos de nutrientes y reducir la dependencia de insumos externos].
       .col-xl-auto(data-aos="fade-left")
         figure.d-none.d-xl-block
           img(src="@/assets/curso/temas/img53.png" alt='').m-auto
@@ -1301,7 +1301,7 @@
                       li.mb-2
                         span.fa-li
                           i.fas.fa-arrow-alt-circle-right
-                        | Sistema de registro y trazabilidad: fichas por variedad, cuadernos de control, calendarios de siembra, y acuerdos comunitarios sobre acceso, uso,devolución y multiplicación.
+                        | Sistema de registro y trazabilidad: fichas por variedad, cuadernos de control, calendarios de siembra y acuerdos comunitarios sobre acceso, uso, devolución y multiplicación.
                       li.mb-0
                         span.fa-li
                           i.fas.fa-arrow-alt-circle-right
@@ -1314,7 +1314,7 @@
             figure
               img(src="@/assets/curso/temas/img11.svg" alt='' style="max-width: 60px").m-auto
           .col
-            h3 Ferias e Intercambios
+            h3 Ferias e intercambios
 
         .row.align-items-center.mb-5
           .col-xl
@@ -1381,7 +1381,7 @@
                 figure.d-none.d-xl-block
                   img(src="@/assets/curso/temas/img125.svg" alt='').m-auto
               .col-xl
-                p.mb-0 Registrar es #[b resistir]: es afirmar que las semillas tienen #[b historia], que los saberes campesinos son #[b ciencia viva], y que la #[b agroecología] se construye desde la #[b memoria colectiva].
+                p.mb-0 Registrar es #[b resistir]: es afirmar que las semillas tienen #[b historia], que los saberes campesinos son #[b ciencia viva] y que la #[b agroecología] se construye desde la #[b memoria colectiva].
           .col-xl-auto(data-aos="fade-left")
             figure.d-none.d-xl-block
               img(src="@/assets/curso/temas/img126.png" alt='').m-auto
