@@ -495,7 +495,7 @@
 
     .row.align-items-center.mb-5
       .col-xl
-        p.mb-3.style___box_2(data-aos="fade-right") Aunque se reconocen avances importantes en la #[b restauración ecológica] y el #[b manejo de residuos], la evaluación productiva evidenció #[b debilidades en la integración] entre cultivos y animales, el #[b bienestar animal] y la #[b producción de bioinsumos]. Las gallinas no reciben alimentación proveniente de la finca ni se aprovecha su estiércol como abono, y las condiciones de crianza aún no garantizan su salud ni comodidad. Además, aunque se elaboran algunos biofertilizantes, la dependencia de insumos externos sigue siendo alta.
+        p.mb-3.style___box_2(data-aos="fade-right") Aunque se reconocen avances importantes en la #[b restauración ecológica] y el #[b manejo de residuos], la evaluación productiva evidenció #[b debilidades en la integración] entre cultivos y animales, el #[b bienestar animal] y la #[b producción de bioinsumos]. Las gallinas no reciben alimentación proveniente de la finca ni se aprovecha su estiércol como abono, y las condiciones de crianza aún no garantizan su salud ni comodidad. Además, aunque se elaboran algunos biofertilizantes, la #[b dependencia de insumos externos] sigue siendo alta.
         p.mb-0 Estos resultados permiten identificar oportunidades claras para #[b fortalecer la autonomía, cerrar ciclos productivos] y avanzar hacia una agroecología #[b más eficiente y regenerativa] desde el territorio.
       .col-xl-auto(data-aos="fade-left")
         figure.d-none.d-xl-block

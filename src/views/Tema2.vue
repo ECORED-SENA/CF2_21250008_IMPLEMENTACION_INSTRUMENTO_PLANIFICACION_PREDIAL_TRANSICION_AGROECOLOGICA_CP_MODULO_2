@@ -299,13 +299,13 @@
 
         .row.align-items-center.m-0.mb-5
           .col-xl.style___box_8(data-aos="fade-right")
-            p.mb-0 La #[b rotación de cultivos] es una estrategia agroecológica que consiste en #[b alternar diferentes especies] en un mismo terreno a lo largo del tiempo. Esta práctica permite #[b recuperar la fertilidad del suelo, romper ciclos de plagas y enfermedades y diversificar la producción]. En lugar de repetir el mismo cultivo en cada ciclo, se planifica una secuencia que combine especies de d#[b istintos grupos funcionales], especialmente leguminosas, que #[b aportan nitrógeno y mejoran la estructura del suelo].
+            p.mb-0 La #[b rotación de cultivos] es una estrategia agroecológica que consiste en #[b alternar diferentes especies] en un mismo terreno a lo largo del tiempo. Esta práctica permite #[b recuperar la fertilidad del suelo, romper ciclos de plagas y enfermedades y diversificar la producción]. En lugar de repetir el mismo cultivo en cada ciclo, se planifica una secuencia que combine especies de #[b distintos grupos funcionales], especialmente leguminosas, que #[b aportan nitrógeno y mejoran la estructura del suelo].
           .col-xl-auto(data-aos="fade-left")
             figure.d-none.d-xl-block
               img(src="@/assets/curso/temas/img48.png" alt='').m-auto
         
         <!-- TITULOS CUERTO NIVEL -->
-        h4.mb-5.caja-titulos-cuarto-nivel(data-aos="fade-right") ¿Cómo se puede aplicar?
+        h4.mb-5.caja-titulos-cuarto-nivel(data-aos="fade-right") ¿Por qué es importante?
 
         p.mb-5 Aporta estabilidad productiva y favorece procesos que mantienen el equilibrio del agroecosistema.
 
