@@ -161,25 +161,25 @@
                   .tarjeta.color-acento-botones.p-4
                     .row.justify-content-center.mb-3
                       .col-8
-                        img(src='@/assets/curso/temas/img17.svg' alt='' style="max-width: 90px").m-auto
+                        img(src='@/assets/curso/temas/img14.svg' alt='' style="max-width: 90px").m-auto
                     h4.mb-3.estilo-text Bienestar animal
                     p.mb-0 Observa las condiciones de manejo, salud y confort de los animales en la finca.
                   .tarjeta.color-acento-botones.p-4
                     .row.justify-content-center.mb-3
                       .col-8
-                        img(src='@/assets/curso/temas/img18.svg' alt='' style="max-width: 90px").m-auto
+                        img(src='@/assets/curso/temas/img17.svg' alt='' style="max-width: 90px").m-auto
                     h4.mb-3.estilo-text Producción de insumos biopreparados
                     p.mb-0 Valora la capacidad del sistema para producir sus propios insumos (fertilizantes, repelentes, etc.).
                   .tarjeta.color-acento-botones.p-4
                     .row.justify-content-center.mb-3
                       .col-8
-                        img(src='@/assets/curso/temas/img19.svg' alt='' style="max-width: 90px").m-auto
+                        img(src='@/assets/curso/temas/img18.svg' alt='' style="max-width: 90px").m-auto
                     h4.mb-3.estilo-text Protección y custodia de semillas
                     p.mb-0 Reconoce prácticas relacionadas con la conservación, intercambio y uso de semillas propias o nativas.
                   .tarjeta.color-acento-botones.p-4
                     .row.justify-content-center.mb-3
                       .col-8
-                        <!-- img(src='@/assets/curso/temas/img19.svg' alt='' style="max-width: 90px").m-auto -->
+                        img(src='@/assets/curso/temas/img19.svg' alt='' style="max-width: 90px").m-auto
                     h4.mb-3.estilo-text Manejo agroecológico del suelo
                     p.mb-0 Evalúa las prácticas de conservación, fertilización natural y estructura del suelo dentro del sistema productivo.
 
